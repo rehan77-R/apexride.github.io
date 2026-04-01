@@ -1,6 +1,5 @@
-# apexride
-ApexRide is a car modification parts store website focused on displaying automotive tuning accessories for modern vehicles.
-# ApexRide - Car Modification Store (Assignment 02)
+
+# ApexRide - Car Modification Store
 
 ## Project Overview
 This is a dynamic web application built for car enthusiasts to manage and explore car modification parts.
